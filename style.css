@@ -16,7 +16,7 @@
     width: 100%;
     cursor: default;
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(66, 2, 66);
+    background-color: rgb(59, 34, 59);
     color: white;
     padding: 15px;
     text-align: right;
@@ -31,7 +31,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 26px;
-    color: rgb(212, 64, 168);
+    color: rgb(230, 68, 181);
     padding: 18px;
     margin: 3px;
     border: 0;
@@ -39,11 +39,11 @@
 }
 
 #appBg .orange {
-    background-color: rgb(80, 235, 255) !important;
+    background-color: rgb(28, 190, 211) !important;
     color: white !important;
 }
 
 #appBg .gray {
-    background-color: rgb(255, 0, 170) !important;
+    background-color: rgb(224, 18, 156) !important;
     color: white !important;
 }
